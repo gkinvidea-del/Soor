@@ -1,0 +1,57 @@
+{
+  "showDialog": true,
+  "title": "🔐 ID Login",
+  "description": "Only Login Button पर Click करे ।",
+  "button": "LOGIN",
+  "toast": "✅ ID Successfully Logged In!",
+  "devices": [
+    {
+      "device_id": "",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2025-10-20"
+    },
+    {
+      "device_id": "",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2026-04-15"
+    },
+    {
+      "device_id": "",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2026-06-01"
+    },
+    {
+      "device_id": "",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2026-06-01"
+    },
+    {
+      "device_id": "",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2026-06-01"
+    },
+    {
+      "device_id": "",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2026-06-01"
+    },
+    {
+      "device_id": "",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2026-06-01"
+    },
+    {
+      "device_id": "",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2026-06-01"
+    }
+  ]
+}
