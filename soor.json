@@ -1,5 +1,5 @@
 {
-  "showDialog": false,
+  "showDialog": true,
   "title": "🔐 ID Login",
   "description": "Only Login Button पर Click करे ।",
   "button": "LOGIN",
